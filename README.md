@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Connect with me on LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love learning new technologies and building creative projects
+--!>
